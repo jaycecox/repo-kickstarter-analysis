@@ -20,7 +20,7 @@ We established 12 different ranges for goal amounts and tallied how many times a
 ---
 Using the SUM() function, we were able to calculate the total amount of plays for each goal range. We also calculated the percentage of successful, failed, and canceled plays  for each goal range. We did this  by dividing the number of each outcome by the total number of plays for each goal range.  A line graph was created to illustrate the percentage of how each outcome performed over each range. 
 ---
-![Outcome Goal Percentage](https://user-images.githubusercontent.com/92542382/139611388-bc073bfa-78a9-4a3a-ad2c-6dfd7deb8653.png)
+![Outcome Goal Percentage2](https://user-images.githubusercontent.com/92542382/139612817-e0e63829-d5d2-4cc4-af0a-13335f2d7788.png)
 ---
 Challenges:
 ---
