@@ -38,7 +38,7 @@ I can  state that there were much more successful theater outcomes in the month 
 ---
 Approximately 85% of total plays had a goal of up $9,999 with an average success rate of 68%. 
 ---
-![Percentage of Success](https://user-images.githubusercontent.com/92542382/139615577-6f388dc7-5604-49f2-8d70-cb978819ce18.png)
+![Percentage of Success](https://user-images.githubusercontent.com/92542382/139615756-cee7dc5f-e0b0-4d99-b030-cc0a82a6b238.png)
 ---
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/92542382/139610975-1a216819-cf3d-4be7-91b5-3bad26987789.png)
 ---
