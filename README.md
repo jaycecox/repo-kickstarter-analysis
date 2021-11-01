@@ -2,7 +2,7 @@
 ---
 Purpose:
 ---
-The purpose of the analysis is to compare how the theater campaigns fared in relation to their launch dates and how play campaigns fared based on their goals.
+The purpose of the analysis is to compare how the theater campaigns fared in relation to their launch dates and how play campaigns fared based on their funding goals.
 ---
 Analysis:
 ---
